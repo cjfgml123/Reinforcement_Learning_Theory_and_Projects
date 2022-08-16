@@ -1,10 +1,8 @@
 __pycache__/
-resultData/
-src/Model_Info/*
-!src/Model_Info/best*
-!src/Model_Info/final*
-Model_Info_test/
-src/Model_ValInfo/
+Code/resultData/
+Code/Model_Info/*
+!Code/Model_Info/best*
+Code/Model_ValInfo/
 Code/RawDataGraph/
 Code/OutPredict/
 Code/data/*
