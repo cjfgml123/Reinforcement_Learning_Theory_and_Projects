@@ -1,0 +1,28 @@
+__pycache__/
+resultData/
+src/Model_Info/*
+!src/Model_Info/best*
+!src/Model_Info/final*
+Model_Info_test/
+src/Model_ValInfo/
+Code/RawDataGraph/
+Code/OutPredict/
+Code/data/*
+Code/data2/
+# !data/osm2.net.xml
+# !data/osm2.det.xml
+# !data/osm3.net.xml
+# !data/osm2.sumocfg
+!Code/data/osm4.net.xml
+!Code/data/osm4.det.xml
+!Code/data/osm4.sumocfg
+!Code/data/osm4.tls.xml
+Code/Model_Info2/
+Code/Model_INfo3/
+
+Code/OutPredict/
+Code/OutGraph/
+
+# 백그라운드 동작 결과파일 제외
+Code/nohup.out
+Code/TensorLogs_v1/
