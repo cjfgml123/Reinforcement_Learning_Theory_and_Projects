@@ -2,11 +2,21 @@ __pycache__/
 Code/resultData/
 Code/Model_Info/*
 !Code/Model_Info/best*
+!Code/Model_Info/final*
 Code/Model_ValInfo/
 Code/RawDataGraph/
 Code/OutPredict/
 Code/data/*
 Code/data2/
+Code/Config.py
+Code/Env_Sumo.py
+Code/MariaDBCDC.py
+Code/RL_Env_Sumo.py
+Code/RL_RunClass.py
+Code/SumoUtil.py
+Code/TLS.py
+Code/TLSManager.py
+Code/VDSConfig.py
 # !data/osm2.net.xml
 # !data/osm2.det.xml
 # !data/osm3.net.xml
